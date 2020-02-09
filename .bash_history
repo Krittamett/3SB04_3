@@ -86,3 +86,8 @@ git remote remove orgin
 git remote -v
 git push -u origin master
 git status
+git add --all
+git commit " Second Commit"
+git commit -m "Second Commit"
+git push
+git status
