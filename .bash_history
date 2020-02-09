@@ -77,3 +77,12 @@ git remote set-url  https://github.com/Krittamett/3SB04_3.git
 git status
 git init
 git status
+git add --all
+git commit -m "push"
+git remote add origin https://github.com/Krittamett/3SB04_3.git
+git remote -v
+git remote remove
+git remote remove orgin
+git remote -v
+git push -u origin master
+git status

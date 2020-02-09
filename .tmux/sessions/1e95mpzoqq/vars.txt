@@ -7,7 +7,7 @@ declare -a BASH_ARGV=()
 declare -A BASH_CMDS=([rm]="/bin/rm" [mkdir]="/bin/mkdir" )
 declare -- BASH_COMMAND="git add --all"
 declare -a BASH_COMPLETION_VERSINFO=([0]="2" [1]="8")
-declare -a BASH_LINENO=([0]="22")
+declare -a BASH_LINENO=([0]="31")
 declare -ar BASH_REMATCH=()
 declare -a BASH_SOURCE=([0]="/home/ubuntu/.bashrc")
 declare -- BASH_SUBSHELL="0"
