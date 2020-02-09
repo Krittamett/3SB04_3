@@ -91,3 +91,9 @@ git commit " Second Commit"
 git commit -m "Second Commit"
 git push
 git status
+git add --all
+git commit -m "4 commit"
+git push
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/t1bpef9dz8o/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/1e95mpzoqq/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/j2x84ldybs/vars.txt) && cd ${PWD}
