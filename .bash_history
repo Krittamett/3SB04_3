@@ -64,3 +64,16 @@ git init
 git status
 git add --all
 python3 manage.py runserver
+git commit -m "second commit"
+git remote -v
+git remote add orgin https://github.com/Krittamett/3SB04_2.git
+get push origin master
+git push origin master
+git push -u origin master
+git remote -v
+git push -u origin master
+git remote set-url origin https://github.com/Krittamett/3SB04_3.git
+git remote set-url  https://github.com/Krittamett/3SB04_3.git
+git status
+git init
+git status
